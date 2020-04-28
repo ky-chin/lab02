@@ -3,3 +3,4 @@
 
 ###Image of Map
 ![](/img/twtmap.png)
+Geographic boundaries of the United States are used to harvest tweet data. Includes contiguous U.S. as well as Alaska and Hawaii.
